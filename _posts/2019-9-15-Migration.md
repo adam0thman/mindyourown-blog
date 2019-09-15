@@ -1,11 +1,5 @@
 
----
-layout: post
-title: It;s MIgration Day!
----
-# It's Migration Day!
-
-And here . we are on a Sunday, migrating systems to a new server.
+And here we are on a Sunday, migrating systems to a new server. All; is good eexcept when DB2 installaers starts to misbehave. Sigh..
 
 > Do what you must.
 
@@ -13,5 +7,5 @@ Cheerios!
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNDM3ODMxNSwtNTM3MDkwOTVdfQ==
+eyJoaXN0b3J5IjpbODUxODE3NTgsLTUzNzA5MDk1XX0=
 -->
