@@ -1,5 +1,8 @@
 
-
+---
+layout: post
+title: It;s MIgration Day!
+---
 # It's Migration Day!
 
 And here . we are on a Sunday, migrating systems to a new server.
@@ -10,5 +13,5 @@ Cheerios!
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzA5MDk1XX0=
+eyJoaXN0b3J5IjpbLTcwNDM3ODMxNSwtNTM3MDkwOTVdfQ==
 -->
