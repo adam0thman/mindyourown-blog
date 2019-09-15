@@ -16,7 +16,7 @@ Follow our blog and all of our Social media channels, and we bet you will benefi
 
 ### Contact Us
 
-[email@domain.com](mailto:email@domainadam@jasabyte.com](mailto:adam@jasabyte.com)
+[adam@jasabyte.com](mailto:adam@jasabyte.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNjE3Nzk3Ml19
+eyJoaXN0b3J5IjpbMjA5NDEzNDAwNl19
 -->
