@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Alak Awesome
+name: Nik M Adam Hafiz
 
 # Short bio or description (displayed in the header)
-description: Developer from Malaysia/ Guiding you the simplicity of the web, and while we're at it, thoe FREE stuff!
+description: A developer cum. business enthursiast from Malaysia. Guiding you on the simplicity of the web, and while at it, sharing the FREE stuff!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://lh3.googleusercontent.com/Fv5UOvyat6jNwTW6zLB8i3kokfT19UxxLdlsabAIouTR9caxe9jxX5CTb3F_II8VARbIk1gEikuZl_I=w352-h352-n-o-rw
@@ -19,7 +19,7 @@ avatar: https://lh3.googleusercontent.com/Fv5UOvyat6jNwTW6zLB8i3kokfT19UxxLdlsab
 footer-links:
   dribbble:
   email: adam0thman@gmail.com
-  facebook:
+  facebook: fb.me/adam0thman
   flickr:
   github: adam0thman
   instagram: adam0thman
